@@ -1,70 +1,65 @@
 # 👋 Hi, I'm Shayan Ghadamian
 
-**Developer | AI Enthusiast | Co-Founder of [Vortex AI Team](https://vortex-team.ir)**  
-Building intelligent, creative, and sometimes chaotic tools that challenge limits.
-
-[**Portfolio → shayanghad.ir**](https://shayanghad.ir)  
-[**GitHub → @shayanghad0**](https://github.com/shayanghad0)
+**Developer | AI Enthusiast | Co-Founder @ [Vortex AI Team](https://vortex-team.ir)**  
+Exploring code, chaos & creativity | [Portfolio](https://shayanghad.ir) | [GitHub](https://github.com/shayanghad0)
 
 ---
 
-## 🚀 What I Do
+## 🧠 About Me
 
-- **Co-founder @ Vortex AI Team**  
-  Driving next-gen AI-powered apps, experiments, and research.
-  
-- **Creative Coder**  
-  From automation scripts to rage-inducing games and network tools, I love building things that *work* — and sometimes *break people* (in a fun way).
-
-- **Open Source Contributor**  
-  Actively pushing code and ideas into the public space. Focused on tools, performance, and a bit of trolling.
+I’m a developer who blends creativity with code. Whether it’s building AI tools, browser scripts, rage games or automation, I thrive on turning ideas into digital reality.  
+Co-founder of **Vortex AI Team** — building the future with clever (and sometimes trollish) tech.
 
 ---
 
-## 🌟 Featured Repositories
+## 💼 Tech Stack
 
-### [**RageCube**](https://github.com/shayanghad0/ragecube) *(Coming Soon)*  
-A rage-inducing game with invisible traps, troll voice lines, and deceptive levels. Built in Python + Pygame.  
-> **Tech:** Python, Pygame | **Fun Level:** Extreme
-
-### [**smsbomber**](https://github.com/shayanghad0/smsbomber)  
-An SMS bomber for Iranian numbers (`+98`) made in Go, focused on speed and simplicity.  
-> **Tech:** Go | **Use Case:** Educational & Testing Purposes
-
----
-
-## 🏆 Highlights & Achievements
-
-- Built & launched **7+ public tools & projects**
-- Co-founded [Vortex AI Team](https://vortex-team.ir) to explore practical AI development
-- Maintained a consistent presence on GitHub from **2023 to present**
-- Skilled in **Go, Python, Bash**, and experimental tech stacks
-- Known for building **fun**, **trollish**, and sometimes **chaotic** software
-
----
-
-## ⚙️ Tech Toolbox
+**Languages & Tools I Use Often:**
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-## 📈 GitHub Activity
+## 🚀 Projects & Contributions
+
+### [**RageCube**](https://github.com/shayanghad0/ragecube) *(Coming Soon)*  
+Rage platformer game with invisible traps, reverse gravity, fake goals & troll voice lines.  
+> **Tech:** Python, Pygame | **Levels:** 11 | **Troll Level:** Legendary
+
+### [**smsbomber**](https://github.com/shayanghad0/smsbomber)  
+A Go-based SMS bombing tool for Iranian numbers, designed for speed and simplicity.  
+> Termux + Linux compatible | Open-source (MPL-2.0)
+
+### [Other Contributions]  
+- PHP tools, bots & backend experiments  
+- HTML/CSS templates & mini projects  
+- Bash automation scripts  
+- SQL structure & queries for small apps  
+- Personal AI/ML research with Python (not public yet)
+
+---
+
+## 📊 GitHub Stats
 
 ![Shayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shayanghad0&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shayanghad0&layout=compact&theme=radical)
 
 ---
 
-## ☕ Buy Me a Coffee
+## ☕ Donate a Coffee
 
-If you enjoy my work or want to support future projects, feel free to donate!
+If you like what I build and want to support the chaos, drop a coffee or crypto.
 
-[**→ Donate on CoffeeBede**](https://coffeebede.ir/shayanghad0)
+[**→ Donate via CoffeeBede**](https://coffeebede.ir/shayanghad0)
 
 **Crypto Wallets:**  
 - **BEP20 (BNB / USDT):** `0x7BD02Be6314cc58b239c77ab1a2147b796154Db3`  
@@ -72,7 +67,7 @@ If you enjoy my work or want to support future projects, feel free to donate!
 
 ---
 
-## 🌐 Connect with Me
+## 📬 Let's Connect
 
 - **Instagram:** [@shayanghad0](https://instagram.com/shayanghad0)  
 - **Telegram:** [@shayanghad0](https://t.me/shayanghad0)  
@@ -80,5 +75,5 @@ If you enjoy my work or want to support future projects, feel free to donate!
 
 ---
 
-> *"I don't just build code. I build chaos, curiosity, and creativity."*  
+> *“Build for fun. Break for fun. Share the chaos.”*  
 > — Shayan
