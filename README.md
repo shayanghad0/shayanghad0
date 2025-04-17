@@ -31,7 +31,7 @@ Co-founder of **Vortex AI Team** — building the future with clever (and someti
 
 ## 🚀 Projects & Contributions
 
-### [**RageCube**](https://github.com/shayanghad0/ragecube) *(Coming Soon)*  
+### [**RageCube**](https://github.com/shayanghad0/game) *(Coming Soon)*  
 Rage platformer game with invisible traps, reverse gravity, fake goals & troll voice lines.  
 > **Tech:** Python, Pygame | **Levels:** 11 | **Troll Level:** Legendary
 
