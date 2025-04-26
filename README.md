@@ -31,10 +31,11 @@ Co-founder of **Vortex AI Team** — building the future with clever (and someti
 
 ## 🚀 Projects & Contributions
 
-### [**RageCube**](https://github.com/shayanghad0/ragecube) *(Coming Soon)*  
+### [**RageCube**](https://github.com/shayanghad0/ragecube) 
 Rage platformer game with invisible traps, reverse gravity, fake goals & troll voice lines.  
 > **Tech:** Python, Pygame | **Levels:** 11 | **Troll Level:** Legendary
-
+[**Crash bet game**](https://github.com/shayanghad0/carsh)
+A crash casino source code game
 ### [**smsbomber**](https://github.com/shayanghad0/smsbomber)  
 A Go-based SMS bombing tool for Iranian numbers, designed for speed and simplicity.  
 > Termux + Linux compatible | Open-source (MPL-2.0)
