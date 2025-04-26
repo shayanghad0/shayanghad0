@@ -7,7 +7,7 @@ Exploring code, chaos & creativity | [Portfolio](https://shayanghad.ir) | [GitHu
 
 ## 🧠 About Me
 
-I’m a developer who blends creativity with code. Whether it’s building AI tools, browser scripts, rage games or automation, I thrive on turning ideas into digital reality.  
+I'm a developer who blends creativity with code. Whether it's building AI tools, browser scripts, rage games, or automation, I thrive on turning ideas into digital reality.  
 Co-founder of **Vortex AI Team** — building the future with clever (and sometimes trollish) tech.
 
 ---
@@ -31,7 +31,7 @@ Co-founder of **Vortex AI Team** — building the future with clever (and someti
 
 ## 🚀 Projects & Contributions
 
-### [**RageCube**](https://github.com/shayanghad0/game) *(Coming Soon)*  
+### [**RageCube**](https://github.com/shayanghad0/ragecube) *(Coming Soon)*  
 Rage platformer game with invisible traps, reverse gravity, fake goals & troll voice lines.  
 > **Tech:** Python, Pygame | **Levels:** 11 | **Troll Level:** Legendary
 
