@@ -36,6 +36,7 @@ Rage platformer game with invisible traps, reverse gravity, fake goals & troll v
 > **Tech:** Python, Pygame | **Levels:** 11 | **Troll Level:** Legendary
 ###
 [**Crash bet game**](https://github.com/shayanghad0/carsh)
+
 A crash casino source code game
 >Like **1xbet ritzobet red90 .... casino's**
 ### [**smsbomber**](https://github.com/shayanghad0/smsbomber)  
