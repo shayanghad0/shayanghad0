@@ -35,6 +35,14 @@ Co-founder of **Vortex AI Team** — building the future with clever (and someti
 Rage platformer game with invisible traps, reverse gravity, fake goals & troll voice lines.  
 > **Tech:** Python, Pygame | **Levels:** 11 | **Troll Level:** Legendary
 
+### [**VorCleaner**](https://github.com/shayanghad0/vorcleaner)
+Vorcleaner is a modern and user-friendly Windows cache cleaner built with PyQt5
+> designed to improve performance, free up space, and optionally disable Windows Updates with a single click.
+
+### [**Hooshang AI**](https://github.com/shayanghad0/Hooshang-ai)
+Hooshang AI. Ai developed with OpenAI and proprietary algorithms without API.
+> Artificial intelligence tutoring for exam students developed with openai and proprietary algorithms without API.
+
 ### [Other Contributions]  
 - PHP tools, bots & backend experiments  
 - HTML/CSS templates & mini projects  
