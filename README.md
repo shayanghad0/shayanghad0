@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shayan Ghadamian
 
-**Developer | AI Enthusiast | Co-Founder @ [Vortex AI Team](null)**  
+**Developer | AI Enthusiast | Co-Founder [Shayan MeherSaz Pars](https://github.com/Shayan-Meher-SazPars)**  
 Exploring code, chaos & creativity | [Portfolio](https://github.com/shayanghad0) | [GitHub](https://github.com/shayanghad0)
 
 ---
