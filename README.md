@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shayan Ghadamian
 
-**Developer | AI Enthusiast | Co-Founder @ [Vortex AI Team](https://vortex-team.ir)**  
-Exploring code, chaos & creativity | [Portfolio](https://shayanghad.ir) | [GitHub](https://github.com/shayanghad0)
+**Developer | AI Enthusiast | Co-Founder @ [Vortex AI Team](null)**  
+Exploring code, chaos & creativity | [Portfolio](https://github.com/shayanghad0) | [GitHub](https://github.com/shayanghad0)
 
 ---
 
