@@ -16,32 +16,36 @@ Co-founder of **Vortex AI Team** — building the future with clever (and someti
 
 **Languages & Tools I Use Often:**
 
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)  
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+![3X-UI](https://img.shields.io/badge/-3X--UI-blueviolet?style=flat&logo=linux&logoColor=white)  
+![VPN](https://img.shields.io/badge/-VPN-20C997?style=flat&logo=wireguard&logoColor=white)
 
 ---
 
 ## 🚀 Projects & Contributions
 
-### [**RageCube**](https://github.com/shayanghad0/game)
-Rage platformer game with invisible traps, reverse gravity, fake goals & troll voice lines.  
+### [**RageCube**](https://github.com/shayanghad0/game)  
+A rage platformer game with invisible traps, reverse gravity, fake goals & troll voice lines.  
 > **Tech:** Python, Pygame | **Levels:** 11 | **Troll Level:** Legendary
 
-### [**VorCleaner**](https://github.com/shayanghad0/vorcleaner)
-Vorcleaner is a modern and user-friendly Windows cache cleaner built with PyQt5
-> designed to improve performance, free up space, and optionally disable Windows Updates with a single click.
+### [**VorCleaner**](https://github.com/shayanghad0/vorcleaner)  
+A modern and user-friendly Windows cache cleaner built with PyQt5, designed to improve performance, free up space, and optionally disable Windows Updates with a single click.
 
-### [**Hooshang AI**](https://github.com/shayanghad0/Hooshang-ai)
-Hooshang AI. Ai developed with OpenAI and proprietary algorithms without API.
-> Artificial intelligence tutoring for exam students developed with openai and proprietary algorithms without API.
+### [**Hooshang AI**](https://github.com/shayanghad0/Hooshang-ai)  
+An AI tutoring system developed with OpenAI and proprietary algorithms without using APIs, aimed at assisting exam students.
+
+### [**VPN Automation / 3x-ui Setup**](https://github.com/shayanghad0)  
+Scripts & setup guides for deploying 3x-ui panel and managing WireGuard/XRay/V2Ray VPN servers.  
+> **Tech:** Bash, Linux, Docker | **Use:** VPN Hosting, Resellers, CLI Management
 
 ### [Other Contributions]  
 - PHP tools, bots & backend experiments  
@@ -56,6 +60,8 @@ Hooshang AI. Ai developed with OpenAI and proprietary algorithms without API.
 
 ![Shayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shayanghad0&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shayanghad0&layout=compact&theme=radical)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shayanghad0&theme=dark" alt="shayanghad0" /></p>
 
 ---
 
