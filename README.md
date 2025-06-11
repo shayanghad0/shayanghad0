@@ -55,6 +55,7 @@ Hooshang AI. Ai developed with OpenAI and proprietary algorithms without API.
 ## 📊 GitHub Stats
 
 ![Shayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shayanghad0&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shayanghad0&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shayanghad0&layout=compact&theme=radical)
 
 ---
