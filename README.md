@@ -8,7 +8,7 @@ Exploring code, chaos & creativity | [Portfolio](https://github.com/shayanghad0)
 ## 🧠 About Me
 
 I'm a developer who blends creativity with code. Whether it's building AI tools, browser scripts, rage games, or automation, I thrive on turning ideas into digital reality.  
-Co-founder of **Vortex AI Team** — building the future with clever (and sometimes trollish) tech.
+Co-founder of **Shayan MeherSaz Pars** — building the future with clever (and sometimes trollish) tech.
 
 ---
 
@@ -52,7 +52,7 @@ Scripts & setup guides for deploying 3x-ui panel and managing WireGuard/XRay/V2R
 - HTML/CSS templates & mini projects  
 - Bash automation scripts  
 - SQL structure & queries for small apps  
-- Personal AI/ML research with Python (not public yet)
+- Personal AI/ML research with Python (not public yet please help me!! Shayanghad0@gmail.com )
 
 ---
 
@@ -63,6 +63,24 @@ Scripts & setup guides for deploying 3x-ui panel and managing WireGuard/XRay/V2R
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shayanghad0&theme=dark" alt="shayanghad0" /></p>
 
+---
+
+## My projects :)
+
+### [**Codex**](https://github.com/shayanghad0/#)
+Node.js EJS(html css js)
+A Site like github bit for developer team manager easy to use
+
+>Contributors :
+> [Shayan Ghadamian => Main Developer](https://github.com/shayanghad0)
+
+> [Pejamn Ghadamian => Secend/Helper Developer](https://github.com/Ghpejman)
+
+### Codes
+
+> [Public Code](https://github.com/shayanghad0/public-codex)
+
+> [Admin Side Code](https://github.com/shayanghad0/Front-codex-admin)
 ---
 
 ## ☕ Donate a Coffee
