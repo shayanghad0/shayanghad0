@@ -4,13 +4,12 @@
 # 💀 SHAYAN GHADAMIAN 💀
 ### 🔥 Code Wizard | Chaos Engineer | Digital Rebel 🔥
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Enthusiast;VPN+Master;Code+%2B+Chaos+%2B+Creativity)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Enthusiast;3x-ui+developer;Code+%2B+Chaos+%2B+Creativity)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shayanghad0)
 [![Company](https://img.shields.io/badge/🏢_Shayan_MeherSaz_Pars-4ECDC4?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/Shayan-Meher-SazPars)
 [![Email](https://img.shields.io/badge/📧_Contact-45B7D1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Shayanghad0@gmail.com)
 
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 </div>
 
@@ -253,10 +252,10 @@ A revolutionary team management platform built with Node.js and EJS
 ```bash
 $ ./shayan_status.sh
 ┌─────────────────────────────────────────┐
-│  🚀 Currently Building: AI/ML Systems   │
-│  ⚡ Next Target: World Domination       │  
-│  💻 Code Quality: Chaotically Perfect   │
-│  ☕ Coffee Level: Maximum Overdrive     │
+│  🚀 Currently Building: AI/ML Systems  │
+│  ⚡ Next Target: World Domination      │  
+│  💻 Code Quality: Chaotically Perfect  │
+│  ☕ Coffee Level: Maximum Overdrive    │
 │  🎯 Bug Count: 0 (They're features!)   │
 └─────────────────────────────────────────┘
 
@@ -280,8 +279,6 @@ Status: READY TO ROCK! 🔥
 > *Building the future, one chaotic commit at a time*
 
 ---
-
-<img src="https://komarev.com/ghpvc/?username=shayanghad0&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 ### 🎉 **Thanks for visiting! Now go build something EPIC!** 🚀
 
