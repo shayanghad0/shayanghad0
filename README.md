@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 💀 SHAYAN GHADAMIAN 💀
+# Shayan Ghadamian
 ### 🔥 Code Wizard | Chaos Engineer | Digital Rebel 🔥
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Enthusiast;3x-ui+developer;Code+%2B+Chaos+%2B+Creativity)](https://git.io/typing-svg)
@@ -178,12 +178,6 @@ A revolutionary team management platform built with Node.js and EJS
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shayanghad0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayanghad0&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shayanghad0&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
