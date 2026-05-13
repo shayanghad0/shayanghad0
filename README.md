@@ -176,8 +176,10 @@ A revolutionary team management platform built with Node.js and EJS
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shayanghad0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayanghad0&layout=compact&langs_count=8&theme=tokyonight"/>
+
+<a href="">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=shayanghad0&theme=material-palenight"/>
+</a>
 
 </div>
 
