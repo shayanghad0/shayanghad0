@@ -185,6 +185,16 @@ A revolutionary team management platform built with Node.js and EJS
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=MHSanaei&show_icons=true&theme=radical">
+  <img alt="GitHub stats" src="https://github-readme-stats-fast.vercel.app/api?username=shayanghad0&show_icons=true&theme=default">
+</picture>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MHSanaei&theme=radical">
+  <img alt="Top Langs" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shayanghad0&theme=default">
+</picture>
+
 ### 🏆 **Achievement Unlocked** 🏆
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shayanghad0&theme=tokyonight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
