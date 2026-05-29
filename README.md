@@ -1,123 +1,62 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Shayan
+
 
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Developer;Crypto+Infrastructure+Engineer;Trading+Bot+Developer;API+Wrapper+Creator;Backend+Automation+Builder" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Shayan+Ghadamian;Backend+Developer;Crypto+Infrastructure+Builder;Python+%7C+Go+%7C+Automation" />
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/gopherDevOps.gif" width="220"/>
 </div>
 
 ---
 
-## 🚀 About Me
+<p align="center">
 
-```python
-class Shayan:
+Backend developer focused on crypto infrastructure, APIs, automation systems and experimental software.
 
-    def __init__(self):
-        self.username = "shayanghad0"
-        self.role = "Backend & Crypto Developer"
-
-        self.languages = [
-            "Python",
-            "JavaScript",
-            "SQL"
-        ]
-
-        self.interests = [
-            "Trading Bots",
-            "Exchange APIs",
-            "Automation",
-            "SDK Development",
-            "Backend Systems"
-        ]
-
-        self.current_focus = [
-            "Bit24 SDK",
-            "Algorithmic Trading",
-            "Exchange Infrastructure"
-        ]
-
-    def build(self):
-        return "Clean. Fast. Production-ready."
-```
+</p>
 
 ---
 
-## ⚡ Tech Stack
+### Current Projects
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,nodejs,git,github,mysql,linux,vscode" />
-
-</div>
-
----
-
-## 📌 Featured Projects
-
-### 🔹 Bit24 Easy To Use
-
-Clean and simple Python wrapper for Bit24 exchange APIs.
-
-⭐ Focused on:
-
-* authentication
-* market orders
-* wallet management
-* cleaner developer experience
-
-🔗 Repository:
-https://github.com/shayanghad0/Bit24-Easy-To-use
+* ⚡ Bit24-Easy-To-use
+* 🤖 Bit24 Trading Bot
+* 🧹 vorcleaner
+* 🎨 iranian-colors
 
 ---
 
-### 🔹 Trading Bot Infrastructure
+### About Me
 
-Advanced crypto trading bot architecture using:
-
-* orderbook analysis
-* OHLC processing
-* market momentum
-* execution systems
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shayanghad0&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayanghad0&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+* Building backend systems & automation tools
+* Learning Go and low-level concepts
+* Interested in infrastructure engineering
+* Working with crypto exchange APIs
+* Open-source experimentation
 
 ---
 
-## 🔥 Contribution Graph
+### Tools & Technologies
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shayanghad0&theme=tokyo-night&hide_border=true" />
+<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-111111?style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white"/>
 
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/shayanghad0">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
+</p>
 
 ---
 
-<div align="center">
+### Activity
 
-<img src="https://komarev.com/ghpvc/?username=shayanghad0&label=Profile+Views&color=0e75b6&style=flat" />
+<p align="center">
 
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shayanghad0&theme=tokyo-night&hide_border=true"/>
+
+</p>
