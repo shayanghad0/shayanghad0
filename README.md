@@ -1,291 +1,123 @@
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Shayan
 
 <div align="center">
 
-# Shayan Ghadamian
-### 🔥 Code Wizard | Chaos Engineer | Digital Rebel 🔥
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Enthusiast;3x-ui+developer;Code+%2B+Chaos+%2B+Creativity)](https://git.io/typing-svg)
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shayanghad0)
-[![Company](https://img.shields.io/badge/🏢_Shayan_MeherSaz_Pars-4ECDC4?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/Shayan-Meher-SazPars)
-[![Email](https://img.shields.io/badge/📧_Contact-45B7D1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Shayanghad0@gmail.com)
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Developer;Crypto+Infrastructure+Engineer;Trading+Bot+Developer;API+Wrapper+Creator;Backend+Automation+Builder" />
 
 </div>
 
 ---
 
-## 🎯 **WHO AM I?**
-
-<table>
-<tr>
-<td width="60%">
+## 🚀 About Me
 
 ```python
-class ShayanGhadamian:
+class Shayan:
+
     def __init__(self):
-        self.role = "Digital Architect"
-        self.company = "Co-Founder @ Shayan MeherSaz Pars"
-        self.motto = "Build for fun. Break for fun. Share the chaos."
-        self.specialties = [
-            "🤖 AI/ML Systems",
-            "🕹️ Rage Game Development", 
-            "🔐 VPN Infrastructure",
-            "⚡ Automation Scripts",
-            "🌐 Full-Stack Magic"
+        self.username = "shayanghad0"
+        self.role = "Backend & Crypto Developer"
+
+        self.languages = [
+            "Python",
+            "JavaScript",
+            "SQL"
         ]
-    
-    def current_mission(self):
-        return "Turning coffee into code since 2020 ☕→💻"
+
+        self.interests = [
+            "Trading Bots",
+            "Exchange APIs",
+            "Automation",
+            "SDK Development",
+            "Backend Systems"
+        ]
+
+        self.current_focus = [
+            "Bit24 SDK",
+            "Algorithmic Trading",
+            "Exchange Infrastructure"
+        ]
+
+    def build(self):
+        return "Clean. Fast. Production-ready."
 ```
 
-</td>
-<td width="40%">
-
-### 🎮 **Quick Stats**
-- 🔨 **Building:** Next-gen AI tools
-- 🎯 **Focus:** Chaos-driven development
-- 🌍 **Location:** Somewhere in the matrix
-- 🚀 **Status:** Always shipping
-- 💡 **Philosophy:** Code with attitude
-
-</td>
-</tr>
-</table>
-
 ---
 
-## 🛠️ **ARSENAL OF DESTRUCTION**
+## ⚡ Tech Stack
 
 <div align="center">
 
-### 🔥 **Languages & Frameworks** 🔥
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ **Tools & Systems** ⚙️
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
-![3X-UI](https://img.shields.io/badge/3X--UI-blueviolet?style=for-the-badge&logo=linux&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,js,nodejs,git,github,mysql,linux,vscode" />
 
 </div>
 
 ---
 
-## 🚀 **LEGENDARY PROJECTS**
+## 📌 Featured Projects
 
-<div align="center">
+### 🔹 Bit24 Easy To Use
 
-### 🎮 **Featured Masterpieces** 🎮
+Clean and simple Python wrapper for Bit24 exchange APIs.
 
-</div>
+⭐ Focused on:
 
-<table>
-<tr>
-<td width="33%">
+* authentication
+* market orders
+* wallet management
+* cleaner developer experience
 
-#### 🎯 [**RageCube**](https://github.com/shayanghad0/game)
-🕹️ **The Ultimate Troll Game**
-- 💀 Invisible death traps
-- 🔄 Reverse gravity chaos  
-- 🎭 Fake victory conditions
-- 🗣️ Legendary troll voice lines
-- 📊 **11 Levels of Pure Rage**
-
-**Tech:** `Python` `Pygame`
-
-</td>
-<td width="33%">
-
-#### 🧹 [**VorCleaner**](https://github.com/shayanghad0/vorcleaner)
-💻 **Windows System Optimizer**
-- ⚡ One-click cache cleanup
-- 🛡️ Windows Update control
-- 🎨 Modern PyQt5 interface
-- 📈 Performance boosting
-- 🔧 User-friendly design
-
-**Tech:** `Python` `PyQt5`
-
-</td>
-<td width="33%">
-
-#### 🤖 [**Hooshang AI**](https://github.com/shayanghad0/Hooshang-ai)
-🧠 **AI Tutoring System**
-- 🎓 Exam preparation assistant
-- 🔬 Custom algorithms (No APIs!)
-- 💡 Intelligent tutoring
-- 📚 Student-focused design
-- 🚀 OpenAI integration
-
-**Tech:** `Python` `AI/ML`
-
-</td>
-</tr>
-</table>
-
-### 🔐 **VPN & Infrastructure Projects**
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **3X-UI Automation** | VPN panel deployment & management | `Bash` `Linux` `Docker` |
-| **WireGuard Scripts** | Automated VPN server setup | `Shell` `WireGuard` |
-| **VPN Reseller Tools** | CLI management for VPN hosting | `Python` `Bash` |
-
-</div>
-
-### 🌐 **Web Development Arsenal**
-
-<details>
-<summary>🔥 <strong>Codex Platform</strong> - GitHub-like Team Management</summary>
-
-#### 🏢 [**Codex**](https://github.com/shayanghad0/public-codex)
-A revolutionary team management platform built with Node.js and EJS
-
-**Features:**
-- 👥 Developer team management
-- 📊 Project tracking & analytics  
-- 🔄 Git integration
-- 💬 Real-time collaboration
-- 📈 Performance metrics
-
-**Contributors:**
-- 🚀 [**Shayan Ghadamian**](https://github.com/shayanghad0) - Lead Developer
-- ⚡ [**Pejman Ghadamian**](https://github.com/Ghpejman) - Co-Developer
-
-**Repository Links:**
-- 📂 [Public Codebase](https://github.com/shayanghad0/public-codex)
-- 🔧 [Admin Interface](https://github.com/shayanghad0/Front-codex-admin)
-
-</details>
+🔗 Repository:
+https://github.com/shayanghad0/Bit24-Easy-To-use
 
 ---
 
-## 📊 **BATTLE STATISTICS**
+### 🔹 Trading Bot Infrastructure
+
+Advanced crypto trading bot architecture using:
+
+* orderbook analysis
+* OHLC processing
+* market momentum
+* execution systems
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shayanghad0&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<a href="">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=shayanghad0&theme=material-palenight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayanghad0&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shayanghad0&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/shayanghad0">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=shayanghad0&show_icons=true&theme=radical">
-  <img alt="GitHub stats" src="https://github-readme-stats-fast.vercel.app/api?username=shayanghad0&show_icons=true&theme=default">
-</picture>
-<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shayanghad0&theme=radical">
-  <img alt="Top Langs" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shayanghad0&theme=default">
-</picture>
-
-### 🏆 **Achievement Unlocked** 🏆
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=shayanghad0&theme=tokyonight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 💰 **FUEL THE CHAOS**
-
-<div align="center">
-
-### ☕ **Support the Mission** ☕
-
-*Every coffee fuels another line of chaotic code*
-
-[![CoffeeBede](https://img.shields.io/badge/☕_Buy_Me_Coffee-FF813F?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://coffeebede.ir/shayanghad0)
-
-</div>
-
-**🪙 Crypto Donations:**
-
-<table align="center">
-<tr>
-<td align="center">
-
-**🌐 BEP20 (BNB/USDT)**  
-`0x7BD02Be6314cc58b239c77ab1a2147b796154Db3`
-
-</td>
-<td align="center">
-
-**⚡ TRC20 (USDT-TRON)**  
-`TKGoTAfw6K1poKmT6x4eg1fa3zy8Z9DwPa`
-
-</td>
-</tr>
-</table>
-
----
-
-## 🌐 **JOIN THE REVOLUTION**
-
-<div align="center">
-
-### 📡 **Connect & Collaborate** 📡
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shayanghad0)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shayanghad0)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/shayanghad0)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shayanghad0)
-
-</div>
-
 ---
 
 <div align="center">
 
-## 🎯 **CURRENT MISSION STATUS**
-
-```bash
-$ ./shayan_status.sh
-┌─────────────────────────────────────────┐
-│  🚀 Currently Building: AI/ML Systems  │
-│  ⚡ Next Target: World Domination      │  
-│  💻 Code Quality: Chaotically Perfect  │
-│  ☕ Coffee Level: Maximum Overdrive    │
-│  🎯 Bug Count: 0 (They're features!)   │
-└─────────────────────────────────────────┘
-
-Status: READY TO ROCK! 🔥
-```
-
-### 🔥 **Fun Facts** 🔥
-
-- 🎮 Created 11 levels of pure gaming rage
-- 🤖 Building AI without breaking the bank (no APIs needed!)
-- 🔐 VPN wizard who makes internet freedom possible
-- ☕ Powered by coffee and late-night coding sessions
-- 💀 Code reviews are just friendly suggestions
-
----
-
-**💭 Philosophy:**
-> *"Why write boring code when you can write LEGENDARY code that makes people question reality?"*
-
-**🎯 Mission:**
-> *Building the future, one chaotic commit at a time*
-
----
-
-### 🎉 **Thanks for visiting! Now go build something EPIC!** 🚀
+<img src="https://komarev.com/ghpvc/?username=shayanghad0&label=Profile+Views&color=0e75b6&style=flat" />
 
 </div>
