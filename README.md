@@ -60,3 +60,13 @@ Backend developer focused on crypto infrastructure, APIs, automation systems and
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shayanghad0&theme=tokyo-night&hide_border=true"/>
 
 </p>
+
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shayanghad0&theme=radical">
+  <img alt="Top Langs" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shayanghad0&theme=default">
+</picture>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shayanghad0&theme=tokyonight"/>
+</p>
+</b>
