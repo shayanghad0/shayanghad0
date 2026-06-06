@@ -1,5 +1,3 @@
-
-
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Shayan+Ghadamian;Backend+Developer;Crypto+Infrastructure+Builder;Python+%7C+Go+%7C+Automation" />
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/gopherDevOps.gif" width="220"/>
@@ -49,12 +47,9 @@ Backend developer focused on crypto infrastructure, APIs, automation systems and
 
 </p>
 
-<br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shayanghad0&theme=radical">
-  <img alt="Top Langs" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shayanghad0&theme=default">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=Shayanghad0&show_icons=true&theme=radical">
+  <img alt="GitHub stats" src="https://github-readme-stats-fast.vercel.app/api?username=Shayanghad0&show_icons=true&theme=default">
 </picture>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shayanghad0&theme=tokyonight"/>
-</p>
+<br>
 </b>
