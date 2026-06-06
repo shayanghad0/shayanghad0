@@ -15,15 +15,6 @@ Backend developer focused on crypto infrastructure, APIs, automation systems and
 
 ---
 
-### Current Projects
-
-* ⚡ Bit24-Easy-To-use
-* 🤖 Bit24 Trading Bot
-* 🧹 vorcleaner
-* 🎨 iranian-colors
-
----
-
 ### About Me
 
 * Building backend systems & automation tools
