@@ -5,8 +5,6 @@
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/gopherDevOps.gif" width="220"/>
 </div>
 
----
-
 <p align="center">
 
 Backend developer focused on crypto infrastructure, APIs, automation systems and experimental software.
