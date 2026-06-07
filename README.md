@@ -55,5 +55,8 @@ Backend developer focused on crypto infrastructure, APIs, automation systems and
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shayanghad0&theme=radical">
   <img alt="Top Langs" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shayanghad0&theme=default">
 </picture>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shayanghad0&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+</p>
 <br>
 </b>
