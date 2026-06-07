@@ -24,39 +24,32 @@ Backend developer focused on crypto infrastructure, APIs, automation systems and
 ### Tools & Technologies
 
 <p align="center">
+<div align="center">
 
-<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Go-111111?style=for-the-badge&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white"/>
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> |
+| **Frameworks** | <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> |
+| **Databases** | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> |
+| **Tools** | <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> |
 
-</p>
+</div>
 
----
+<br/>
 
-### Activity
+## 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Shayanghad0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shayanghad0&theme=tokyonight&hide_border=true&bg_color=0d1117&layout=compact"/>
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shayanghad0&theme=tokyo-night&hide_border=true"/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shayanghad0&theme=tokyonight&hide_border=true&background=0d1117"/>
+</div>
 
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shayanghad0&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=70a5fd&line=00f7ff&point=ffffff"/>
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=Shayanghad0&show_icons=true&theme=radical">
-  <img alt="GitHub stats" src="https://github-readme-stats-fast.vercel.app/api?username=Shayanghad0&show_icons=true&theme=default">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shayanghad0&theme=radical">
-  <img alt="Top Langs" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shayanghad0&theme=default">
-</picture>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shayanghad0&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-<br>
-</b>
+<br/>
