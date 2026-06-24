@@ -11,7 +11,6 @@ Backend developer focused on crypto infrastructure, APIs, automation systems and
 ### About Me
 
 * Building backend systems & automation tools
-* Learning Go and low-level concepts
 * Interested in infrastructure engineering
 * Working with crypto exchange APIs
 * Open-source experimentation
