@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="55gfrj.gif" alt="animated gif" width="300"/>
+</p>
 <h3>Hello Im Shayan Ghadamian</h3>
 <p align="center">
 
