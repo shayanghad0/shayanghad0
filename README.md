@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="55gfrj.gif" alt="animated gif" width="300"/>
-</p>
 <h3>Hello Im Shayan Ghadamian</h3>
 <p align="center">
 
@@ -44,13 +41,10 @@ Backend developer focused on crypto infrastructure, APIs, automation systems and
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Shayanghad0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shayanghad0&theme=tokyonight&hide_border=true&bg_color=0d1117&layout=compact"/>
 </div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shayanghad0&theme=tokyonight&hide_border=true&background=0d1117"/>
 </div>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shayanghad0&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=70a5fd&line=00f7ff&point=ffffff"/>
 </div>
 
-<br/>
