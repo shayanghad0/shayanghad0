@@ -35,6 +35,14 @@ Backend developer focused on crypto infrastructure, APIs, automation systems and
 </div>
 <br/>
 
+---
+
+## Current Tasks
+- [ ] bug-bounty For Nobitex Exchange
+- [ ] Join To Telelive Developer 
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
