@@ -1,0 +1,38 @@
+{
+  "name": "shayanghad0",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Personal portfolio — Vite + React + TypeScript, deployable to Cloudflare Workers or GitHub Pages",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shayanghad0/shayanghad0.git"
+  },
+  "homepage": "https://github.com/shayanghad0/shayanghad0",
+  "bugs": {
+    "url": "https://github.com/shayanghad0/shayanghad0/issues"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "wrangler:dev": "npm run build && wrangler dev",
+    "deploy": "npm run build && wrangler deploy",
+    "deploy:pages": "npm run build && gh-pages -d dist"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6",
+    "@vitejs/plugin-react": "^4.4.1",
+    "gh-pages": "^6.3.0",
+    "typescript": "~5.8.3",
+    "vite": "^6.3.5",
+    "wrangler": "^4.30.0"
+  }
+}
