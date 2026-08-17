@@ -37,7 +37,7 @@ Backend developer focused on crypto infrastructure, APIs, automation systems and
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Shayanghad0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true"/>
